@@ -1,0 +1,8 @@
+{
+  "registries": {
+    "[default]": {
+      "url": "https://tuist.dev/api/registry/swift"
+    }
+  },
+  "version": 1
+}

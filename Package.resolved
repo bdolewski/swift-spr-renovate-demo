@@ -1,0 +1,21 @@
+{
+  "pins" : [
+    {
+      "identity" : "apple.swift-argument-parser",
+      "kind" : "registry",
+      "location" : "",
+      "state" : {
+        "version" : "1.8.2"
+      }
+    },
+    {
+      "identity" : "apple.swift-log",
+      "kind" : "registry",
+      "location" : "",
+      "state" : {
+        "version" : "1.13.1"
+      }
+    }
+  ],
+  "version" : 2
+}
