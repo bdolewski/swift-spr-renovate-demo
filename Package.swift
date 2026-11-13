@@ -21,7 +21,7 @@ let package = Package(
         //   apple.swift-argument-parser -> github.com/apple/swift-argument-parser
         //   apple.swift-log              -> github.com/apple/swift-log
         .package(id: "apple.swift-argument-parser", from: "1.0.0"),
-        .package(id: "apple.swift-log",             from: "1.4.0"),
+        .package(id: "apple.swift-log",             from: "1.17.0"),
     ],
     targets: [
         .executableTarget(
