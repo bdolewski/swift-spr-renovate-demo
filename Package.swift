@@ -5,9 +5,8 @@
 // classic SCM `.package(url:)` form. The registry it resolves against
 // is configured in `.swiftpm/configuration/registries.json`.
 //
-// This repo exists to demonstrate that Renovate can detect outdated
-// versions of SE-0292 registry-form dependencies and open bump PRs,
-// once the corresponding manager/datasource support lands upstream.
+// This repo shows Renovate detecting outdated SE-0292 registry-form
+// dependencies and opening bump PRs (Renovate 44.234.0 or later).
 import PackageDescription
 
 let package = Package(
