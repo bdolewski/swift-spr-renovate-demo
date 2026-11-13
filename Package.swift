@@ -20,7 +20,7 @@ let package = Package(
         // identity maps to the upstream GitHub org/repo:
         //   apple.swift-argument-parser -> github.com/apple/swift-argument-parser
         //   apple.swift-log              -> github.com/apple/swift-log
-        .package(id: "apple.swift-argument-parser", from: "1.0.0"),
+        .package(id: "apple.swift-argument-parser", from: "1.8.2"),
         .package(id: "apple.swift-log",             from: "1.4.0"),
     ],
     targets: [
